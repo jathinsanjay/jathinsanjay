@@ -1,2 +1,2 @@
-<p <style>color:purple</style>>This is Jathin Sanjay</p>
+<p >This is Jathin Sanjay</p>
 
